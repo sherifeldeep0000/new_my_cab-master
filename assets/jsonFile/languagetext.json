@@ -1,0 +1,1207 @@
+{
+  "allText": [
+    {
+      "textId": "Sign Up",
+      "languageTextList": [
+        {
+          "ar": "سجل"
+        }
+      ]
+    },
+    {
+      "textId": "Sign In",
+      "languageTextList": [
+        {
+          "ar": "تسجيل الدخول "
+        }
+      ]
+    },
+    {
+      "textId": "By clicking start, your agree to our",
+      "languageTextList": [
+        {
+          "ar": "بالنقر فوق ابدأ ، توافق على موقعنا"
+        }
+      ]
+    },
+    {
+      "textId": "Terms and Conditions",
+      "languageTextList": [
+        {
+          "ar": "الأحكام والشروط"
+        }
+      ]
+    },
+    {
+      "textId": "Connect with facebook",
+      "languageTextList": [
+        {
+          "ar": "تواصل مع الفيسبوك"
+        }
+      ]
+    },
+    {
+      "textId": "Login with your phone number",
+      "languageTextList": [
+        {
+          "ar": "تسجيل الدخول باستخدام رقم هاتفك"
+        }
+      ]
+    },
+    {
+      "textId": "Phone Number",
+      "languageTextList": [
+        {
+          "ar": "رقم الهاتف"
+        }
+      ]
+    },
+    {
+      "textId": "Next",
+      "languageTextList": [
+        {
+          "ar": "التالى"
+        }
+      ]
+    },
+    {
+      "textId": "Search...",
+      "languageTextList": [
+        {
+          "ar": "بحث..."
+        }
+      ]
+    },
+    {
+      "textId": "Select your country.",
+      "languageTextList": [
+        {
+          "ar": "اختر بلدك."
+        }
+      ]
+    },
+    {
+      "textId": "Phone Verification",
+      "languageTextList": [
+        {
+          "ar": "التحقق من الهاتف"
+        }
+      ]
+    },
+    {
+      "textId": "Enter your OTP code here",
+      "languageTextList": [
+        {
+          "ar": "أدخل رمز OTP الخاص بك هنا"
+        }
+      ]
+    },
+    {
+      "textId": "Verify now",
+      "languageTextList": [
+        {
+          "ar": "تحقق الآن"
+        }
+      ]
+    },
+    {
+      "textId": "Gregory Smith",
+      "languageTextList": [
+        {
+          "ar": "محمد أحمد"
+        },
+        {
+          "en": "Mohamed Ahmed"
+        }
+      ]
+    },
+    {
+      "textId": "Today at 5:03 PM",
+      "languageTextList": [
+        {
+          "ar": "اليوم في 5:03 PM"
+        }
+      ]
+    },
+    {
+      "textId": "Hello,are you nearby?",
+      "languageTextList": [
+        {
+          "ar": "مرحبا ، هل أنت قريب؟"
+        }
+      ]
+    },
+    {
+      "textId": "OK, Iam waiting at Vinmark\nStore",
+      "languageTextList": [
+        {
+          "ar": "حسنا ، أنا في انتظار Vinmark\nالمتجر"
+        }
+      ]
+    },
+    {
+      "textId": "Today at 5:33 PM",
+      "languageTextList": [
+        {
+          "ar": "اليوم في 5:33 PM"
+        }
+      ]
+    },
+    {
+      "textId": "Sorry, i am stuck in traffic.\nplease give me amoment",
+      "languageTextList": [
+        {
+          "ar": "آسف ، أنا عالق في حركة المرور.\n من فضلك أعطني amoment"
+        }
+      ]
+    },
+    {
+      "textId": "Type a message...",
+      "languageTextList": [
+        {
+          "ar": "اكتب رسالة ..."
+        }
+      ]
+    },
+    {
+      "textId": "Larry Davis",
+      "languageTextList": [
+        {
+          "ar": "محمد أحمد"
+        },
+        {
+          "en": "Mohamed Ahmed"
+        }
+      ]
+    },
+    {
+      "textId": "Cash",
+      "languageTextList": [
+        {
+          "ar": "السيولة النقدية"
+        }
+      ]
+    },
+    {
+      "textId": "Home",
+      "languageTextList": [
+        {
+          "ar": "الصفحة الرئيسية"
+        }
+      ]
+    },
+    {
+      "textId": "My Wallet",
+      "languageTextList": [
+        {
+          "ar": "محفظتي"
+        }
+      ]
+    },
+    {
+      "textId": "History",
+      "languageTextList": [
+        {
+          "ar": "التاريخ"
+        }
+      ]
+    },
+    {
+      "textId": "Notification",
+      "languageTextList": [
+        {
+          "ar": "تنبيه"
+        }
+      ]
+    },
+    {
+      "textId": "Invite Friends",
+      "languageTextList": [
+        {
+          "ar": "ادعو أصدقاء"
+        }
+      ]
+    },
+    {
+      "textId": "Setting",
+      "languageTextList": [
+        {
+          "ar": "ضبط"
+        }
+      ]
+    },
+    {
+      "textId": "Logout",
+      "languageTextList": [
+        {
+          "ar": "تسجيل خروج"
+        }
+      ]
+    },
+    {
+      "textId": "Confirm",
+      "languageTextList": [
+        {
+          "ar": "تؤكد"
+        }
+      ]
+    },
+    {
+      "textId": "105 William St, Chicago, US",
+      "languageTextList": [
+        {
+          "ar": "الهرم-شارع فيصل"
+        },
+        {
+          "en": "Al Haram - Fesal"
+        }
+      ]
+    },
+    {
+      "textId": "465 Swift Village",
+      "languageTextList": [
+        {
+          "ar": "مدينة السادس من اكتوبر"
+        },
+        {
+          "en": "6 of October City"
+        }
+      ]
+    },
+    {
+      "textId": "Cancelled",
+      "languageTextList": [
+        {
+          "ar": "ألغيت"
+        }
+      ]
+    },
+    {
+      "textId": "090 Joaquian isle Suite 76",
+      "languageTextList": [
+        {
+          "ar": "090 جناح جزيرة Joaquian 76"
+        }
+      ]
+    },
+    {
+      "textId": "25 Stacy Falls Suite 453",
+      "languageTextList": [
+        {
+          "ar": "جناح شلالات 25Stacy"
+        }
+      ]
+    },
+    {
+      "textId": "Completed",
+      "languageTextList": [
+        {
+          "ar": "منجز"
+        }
+      ]
+    },
+    {
+      "textId": "342 Lottie Views 435",
+      "languageTextList": [
+        {
+          "ar": "342 لوتي المشاهدات 435"
+        }
+      ]
+    },
+    {
+      "textId": "026 Mitchell Burg Apt. 567",
+      "languageTextList": [
+        {
+          "ar": "026 ميتشل بورغ 567"
+        }
+      ]
+    },
+    {
+      "textId": "105 William St, Chicago, US",
+      "languageTextList": [
+        {
+          "ar": "105 وليام سانت ، شيكاغو ، الولايات المتحدة"
+        }
+      ]
+    },
+    {
+      "textId": "Oct 15,2020",
+      "languageTextList": [
+        {
+          "ar": "152020 أكتوبر"
+        }
+      ]
+    },
+    {
+      "textId": "POPULAR LOCATONS",
+      "languageTextList": [
+        {
+          "ar": "المواقع الشعبية"
+        }
+      ]
+    },
+    {
+      "textId": "Drop-off",
+      "languageTextList": [
+        {
+          "ar": "إنزال"
+        }
+      ]
+    },
+    {
+      "textId": "My current location",
+      "languageTextList": [
+        {
+          "ar": "موقعي الحالي"
+        }
+      ]
+    },
+    {
+      "textId": "Pickup",
+      "languageTextList": [
+        {
+          "ar": "موقعك"
+        }
+      ]
+    },
+    {
+      "textId": "Henev Art Gallery",
+      "languageTextList": [
+        {
+          "ar": "معرض الفن هنيف"
+        }
+      ]
+    },
+    {
+      "textId": "arrive",
+      "languageTextList": [
+        {
+          "ar": "رافينا بارك"
+        }
+      ]
+    },
+    {
+      "textId": "Ravenna Park",
+      "languageTextList": [
+        {
+          "ar": "رافينا بارك"
+        }
+      ]
+    },
+    {
+      "textId": "Husky Stadium",
+      "languageTextList": [
+        {
+          "ar": "ملعب الاسكيمو"
+        }
+      ]
+    },
+    {
+      "textId": "Woodland Park",
+      "languageTextList": [
+        {
+          "ar": "غابة بارك"
+        }
+      ]
+    },
+    {
+      "textId": "University of Washington",
+      "languageTextList": [
+        {
+          "ar": "جامعة واشنطن"
+        }
+      ]
+    },
+    {
+      "textId": "Apply",
+      "languageTextList": [
+        {
+          "ar": "تطبيق"
+        }
+      ]
+    },
+    {
+      "textId": "Input promo code",
+      "languageTextList": [
+        {
+          "ar": "إدخال الرمز الترويجي"
+        }
+      ]
+    },
+    {
+      "textId": "   Promo Code",
+      "languageTextList": [
+        {
+          "ar": "رمز ترويجي"
+        }
+      ]
+    },
+    {
+      "textId": "Just go",
+      "languageTextList": [
+        {
+          "ar": "فقط اذهب"
+        }
+      ]
+    },
+    {
+      "textId": "Near by you",
+      "languageTextList": [
+        {
+          "ar": "بالقرب من قبلك"
+        }
+      ]
+    },
+    {
+      "textId": "2 min",
+      "languageTextList": [
+        {
+          "ar": "2 دقيقة"
+        }
+      ]
+    },
+    {
+      "textId": "Payment",
+      "languageTextList": [
+        {
+          "ar": "دفع"
+        }
+      ]
+    },
+    {
+      "textId": "Promo code",
+      "languageTextList": [
+        {
+          "ar": "رمز ترويجي"
+        }
+      ]
+    },
+    {
+      "textId": "Options",
+      "languageTextList": [
+        {
+          "ar": "خيارات"
+        }
+      ]
+    },
+    {
+      "textId": "Request",
+      "languageTextList": [
+        {
+          "ar": "طلب"
+        }
+      ]
+    },
+    {
+      "textId": "25 Recommended",
+      "languageTextList": [
+        {
+          "ar": "25 الموصى بها"
+        }
+      ]
+    },
+    {
+      "textId": "DISTANCE",
+      "languageTextList": [
+        {
+          "ar": "مسافة"
+        }
+      ]
+    },
+    {
+      "textId": "TIME",
+      "languageTextList": [
+        {
+          "ar": "زمن"
+        }
+      ]
+    },
+    {
+      "textId": "PRICE",
+      "languageTextList": [
+        {
+          "ar": "السعر"
+        }
+      ]
+    },
+    {
+      "textId": "0.2 km",
+      "languageTextList": [
+        {
+          "ar": "0.2 كم"
+        }
+      ]
+    },
+    {
+      "textId": "Booking Succsessful",
+      "languageTextList": [
+        {
+          "ar": "الحجز الناجح"
+        }
+      ]
+    },
+    {
+      "textId": "Your booking has been confirmed. Driver will pickup you in 2 minutes.",
+      "languageTextList": [
+        {
+          "ar": "تم تأكيد الحجز الخاص بك. سوف سائق التقاط لك في 2 دقيقة."
+        }
+      ]
+    },
+    {
+      "textId": "Cancel",
+      "languageTextList": [
+        {
+          "ar": "إلغاء"
+        }
+      ]
+    },
+    {
+      "textId": "Done",
+      "languageTextList": [
+        {
+          "ar": "منجز"
+        }
+      ]
+    },
+    {
+      "textId": "Cancel Request",
+      "languageTextList": [
+        {
+          "ar": "إلغاء الطلب"
+        }
+      ]
+    },
+    {
+      "textId": "Share Your Invite Code",
+      "languageTextList": [
+        {
+          "ar": "مشاركة رمز الدعوة الخاص بك"
+        }
+      ]
+    },
+    {
+      "textId": "When your friend sign up with your referral code, you will both get 3.0 coupons",
+      "languageTextList": [
+        {
+          "ar": "عندما يشترك صديقك برمز الإحالة الخاص بك ، ستحصل على 3.0 كوبون"
+        }
+      ]
+    },
+    {
+      "textId": "Invite Friends\nGet 3 Coupons each!",
+      "languageTextList": [
+        {
+          "ar": "قم بدعوة الأصدقاء\nاحصل على 3 كوبونات لكل!"
+        }
+      ]
+    },
+    {
+      "textId": "Nellie Scott",
+      "languageTextList": [
+        {
+          "ar": "نيلي سكوت"
+        }
+      ]
+    },
+    {
+      "textId": "Trevor Salazar",
+      "languageTextList": [
+        {
+          "ar": "تريفور سالازار"
+        }
+      ]
+    },
+    {
+      "textId": "Chester Jennings",
+      "languageTextList": [
+        {
+          "ar": "تشيستر جينينغز"
+        }
+      ]
+    },
+    {
+      "textId": "Sophie Bell",
+      "languageTextList": [
+        {
+          "ar": "صوفي بيل"
+        }
+      ]
+    },
+    {
+      "textId": "Shane Morales",
+      "languageTextList": [
+        {
+          "ar": "شين موراليس"
+        }
+      ]
+    },
+    {
+      "textId": "Rhoda Palmer",
+      "languageTextList": [
+        {
+          "ar": "رودا بالمر"
+        }
+      ]
+    },
+    {
+      "textId": "Nellie Scott",
+      "languageTextList": [
+        {
+          "ar": "نيلي سكوت"
+        }
+      ]
+    },
+    {
+      "textId": "Samuel Hammond",
+      "languageTextList": [
+        {
+          "ar": "صموئيل هاموند"
+        }
+      ]
+    },
+    {
+      "textId": "Esther Berry",
+      "languageTextList": [
+        {
+          "ar": "محمد أحمد"
+        },
+        {
+          "en": "Mohamed Ahmed"
+        }
+      ]
+    },
+    {
+      "textId": "Search",
+      "languageTextList": [
+        {
+          "ar": "بحث"
+        }
+      ]
+    },
+    {
+      "textId": "Invite friends-GEt 3 coupens each!",
+      "languageTextList": [
+        {
+          "ar": "قم بدعوة أصدقاء- GEt 3 كوبن"
+        }
+      ]
+    },
+    {
+      "textId": "Promotion",
+      "languageTextList": [
+        {
+          "ar": "ترقية وظيفية"
+        }
+      ]
+    },
+    {
+      "textId": "Thank you Your transaction is done",
+      "languageTextList": [
+        {
+          "ar": "شكرا تتم معاملتك"
+        }
+      ]
+    },
+    {
+      "textId": "System",
+      "languageTextList": [
+        {
+          "ar": "النظام"
+        }
+      ]
+    },
+    {
+      "textId": "Booking #156 has been cancelled.",
+      "languageTextList": [
+        {
+          "ar": "تم إلغاء الحجز رقم 156."
+        }
+      ]
+    },
+    {
+      "textId": "Booking #1234 has been succsess.",
+      "languageTextList": [
+        {
+          "ar": "تم الحجز رقم 1234 بنجاح."
+        }
+      ]
+    },
+    {
+      "textId": "Notifications",
+      "languageTextList": [
+        {
+          "ar": "إشعارات"
+        }
+      ]
+    },
+    {
+      "textId": "Submit Review",
+      "languageTextList": [
+        {
+          "ar": "إرسال المراجعة"
+        }
+      ]
+    },
+    {
+      "textId": "Additional comments...",
+      "languageTextList": [
+        {
+          "ar": "تعليقات اضافية..."
+        }
+      ]
+    },
+    {
+      "textId": "Your feedback will help improve\ndriving experience",
+      "languageTextList": [
+        {
+          "ar": "ستساعد ملاحظاتك في تحسين\nتجربة القيادة"
+        }
+      ]
+    },
+    {
+      "textId": "How is your trip?",
+      "languageTextList": [
+        {
+          "ar": "كيف حال رحلتك"
+        }
+      ]
+    },
+    {
+      "textId": "Gregory Smith",
+      "languageTextList": [
+        {
+          "ar": "محمد أحمد"
+        },
+        {
+          "en": "Mohamed Ahmed"
+        }
+      ]
+    },
+    {
+      "textId": "Rating",
+      "languageTextList": [
+        {
+          "ar": "تقييم"
+        }
+      ]
+    },
+    {
+      "textId": "Tips",
+      "languageTextList": [
+        {
+          "ar": "نصائح"
+        }
+      ]
+    },
+    {
+      "textId": "Wow! A 5 Star !\nWanna add tip for Gregory?",
+      "languageTextList": [
+        {
+          "ar": "رائع! A 5 Star!\nهل تريد إضافة معلومات عن Gregory؟"
+        }
+      ]
+    },
+    {
+      "textId": "Choose other amount",
+      "languageTextList": [
+        {
+          "ar": "اختيار المبلغ الآخر"
+        }
+      ]
+    },
+    {
+      "textId": "Maybe next time",
+      "languageTextList": [
+        {
+          "ar": "ربما في المرة القادمة"
+        }
+      ]
+    },
+    {
+      "textId": "My Account",
+      "languageTextList": [
+        {
+          "ar": "حسابي"
+        }
+      ]
+    },
+    {
+      "textId": "Level",
+      "languageTextList": [
+        {
+          "ar": "مستوى"
+        }
+      ]
+    },
+    {
+      "textId": "Gold member",
+      "languageTextList": [
+        {
+          "ar": "عضو ذهبي"
+        }
+      ]
+    },
+    {
+      "textId": "Name",
+      "languageTextList": [
+        {
+          "ar": "اسم"
+        }
+      ]
+    },
+    {
+      "textId": "Email",
+      "languageTextList": [
+        {
+          "ar": "البريد الإلكتروني"
+        }
+      ]
+    },
+    {
+      "textId": "Gender",
+      "languageTextList": [
+        {
+          "ar": "جنس"
+        }
+      ]
+    },
+    {
+      "textId": "Female",
+      "languageTextList": [
+        {
+          "ar": "أنثى"
+        }
+      ]
+    },
+    {
+      "textId": "Birthday",
+      "languageTextList": [
+        {
+          "ar": "عيد الميلاد"
+        }
+      ]
+    },
+    {
+      "textId": "April 16, 1988",
+      "languageTextList": [
+        {
+          "ar": "16 أبريل 1988"
+        }
+      ]
+    },
+    {
+      "textId": "Dark",
+      "languageTextList": [
+        {
+          "ar": "داكن"
+        }
+      ]
+    },
+    {
+      "textId": "Light",
+      "languageTextList": [
+        {
+          "ar": "ضوء"
+        }
+      ]
+    },
+    {
+      "textId": "Select theme mode",
+      "languageTextList": [
+        {
+          "ar": "حدد وضع السمة"
+        }
+      ]
+    },
+    {
+      "textId": "Theme Mode",
+      "languageTextList": [
+        {
+          "ar": "وضع السمه"
+        }
+      ]
+    },
+    {
+      "textId": "Language",
+      "languageTextList": [
+        {
+          "ar": "لغة"
+        }
+      ]
+    },
+    {
+      "textId": "Security",
+      "languageTextList": [
+        {
+          "ar": "الأمان"
+        }
+      ]
+    },
+    {
+      "textId": "Contact us",
+      "languageTextList": [
+        {
+          "ar": "اتصل بنا"
+        }
+      ]
+    },
+    {
+      "textId": "Terms & Prvacy Policy",
+      "languageTextList": [
+        {
+          "ar": "الشروط والسياسة Prvacy"
+        }
+      ]
+    },
+    {
+      "textId": "Clear cache",
+      "languageTextList": [
+        {
+          "ar": "مسح ذاكرة التخزين المؤقت"
+        }
+      ]
+    },
+    {
+      "textId": "Select Language",
+      "languageTextList": [
+        {
+          "ar": "اختار اللغة"
+        }
+      ]
+    },
+    {
+      "textId": "Settings",
+      "languageTextList": [
+        {
+          "ar": "الإعدادات"
+        }
+      ]
+    },
+    {
+      "textId": "Get Started!",
+      "languageTextList": [
+        {
+          "ar": "البدء!"
+        }
+      ]
+    },
+    {
+      "textId": "Know your driver in advance and be\nable to view current location in real-time\non the map",
+      "languageTextList": [
+        {
+          "ar": "تعرف سائقك مقدما ويكون\nقادر على عرض الموقع الحالي في الوقت الحقيقي\nعلى الخريطة"
+        }
+      ]
+    },
+    {
+      "textId": "Track your ride",
+      "languageTextList": [
+        {
+          "ar": "تتبع رحلتك"
+        }
+      ]
+    },
+    {
+      "textId": "Request a ride gets picked up by a\nnearby community driver",
+      "languageTextList": [
+        {
+          "ar": "طلب الحصول على ركوب من قبل\nسائق مجتمع قريب"
+        }
+      ]
+    },
+    {
+      "textId": "Request Ride",
+      "languageTextList": [
+        {
+          "ar": "طلب ركوب"
+        }
+      ]
+    },
+    {
+      "textId": "Huge drivers network helps you find a\ncomfortable and cheap ride",
+      "languageTextList": [
+        {
+          "ar": "تساعدك شبكة برامج التشغيل الضخمة على العثور على\nرحلة مريحة ورخيصة"
+        }
+      ]
+    },
+    {
+      "textId": "Confirm your Driver",
+      "languageTextList": [
+        {
+          "ar": "تأكيد سائقك"
+        }
+      ]
+    },
+    {
+      "textId": "Hi, nice to meet you!",
+      "languageTextList": [
+        {
+          "ar": "مرحبا، انا سعيد لرؤيتك!"
+        }
+      ]
+    },
+    {
+      "textId": "Choose your location to start to find\nrestaurants around you.",
+      "languageTextList": [
+        {
+          "ar": "اختر موقعك للبدء في العثور علي رحلة "
+        }
+      ]
+    },
+    {
+      "textId": "Use current location",
+      "languageTextList": [
+        {
+          "ar": "استخدام الموقع الحالي"
+        }
+      ]
+    },
+    {
+      "textId": "My Cab",
+      "languageTextList": [
+        {
+          "ar": "بلدي الكابينة"
+        }
+      ]
+    },
+    {
+      "textId": "Your booking has been confirmed. Driver will pickup you in 2 minutes.",
+      "languageTextList": [
+        {
+          "ar": "تم تأكيد الحجز الخاص بك. سوف سائق التقاط لك في 2 دقيقة."
+        }
+      ]
+    },
+    {
+      "textId": "Booking Succsessful",
+      "languageTextList": [
+        {
+          "ar": "الحجز الناجح"
+        }
+      ]
+    },
+    {
+      "textId": "PRICE",
+      "languageTextList": [
+        {
+          "ar": "السعر"
+        }
+      ]
+    },
+    {
+      "textId": "Integral Mall",
+      "languageTextList": [
+        {
+          "ar": "لا يتجزأ مول"
+        }
+      ]
+    },
+    {
+      "textId": "Coupon",
+      "languageTextList": [
+        {
+          "ar": "كوبون"
+        }
+      ]
+    },
+    {
+      "textId": "Payment Methods",
+      "languageTextList": [
+        {
+          "ar": "طرق الدفع"
+        }
+      ]
+    },
+    {
+      "textId": "EXPIRES",
+      "languageTextList": [
+        {
+          "ar": "تنقضي"
+        }
+      ]
+    },
+    {
+      "textId": "BALANCE",
+      "languageTextList": [
+        {
+          "ar": "توازن"
+        }
+      ]
+    },
+    {
+      "textId": "Default Payment Method",
+      "languageTextList": [
+        {
+          "ar": "طريقه تسديد خاطئه"
+        }
+      ]
+    },
+    {
+      "textId": "Add New Method",
+      "languageTextList": [
+        {
+          "ar": "إضافة طريقة جديدة"
+        }
+      ]
+    },
+    {
+      "textId": "CREDIT CARD",
+      "languageTextList": [
+        {
+          "ar": "بطاقة الائتمان"
+        }
+      ]
+    },
+    {
+      "textId": "Payment Method",
+      "languageTextList": [
+        {
+          "ar": "طريقة الدفع او السداد"
+        }
+      ]
+    },
+    {
+      "textId": "Inside",
+      "languageTextList": [
+        {
+          "ar": "داخلى"
+        }
+      ]
+    },
+    {
+      "textId": "Location",
+      "languageTextList": [
+        {
+          "ar": "المنطقة"
+        }
+      ]
+    },
+    {
+      "textId": "Delivery of Place",
+      "languageTextList": [
+        {
+          "ar": "مكان التوصيل"
+        }
+      ]
+    }
+  ,
+    {
+      "textId": "Chat",
+      "languageTextList": [
+        {
+          "ar": "الدردشه"
+        }
+      ]
+    },
+    {
+      "textId": "Outside",
+      "languageTextList": [
+        {
+          "ar": "خارجي"
+        }
+      ]
+    }
+  ]
+}

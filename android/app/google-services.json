@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "40359166127",
+    "firebase_url": "https://mycab-394f7.firebaseio.com",
+    "project_id": "mycab-394f7",
+    "storage_bucket": "mycab-394f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40359166127:android:a17118cb9059a23381945a",
+        "android_client_info": {
+          "package_name": "com.marslia_shehab.my_cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40359166127-jegdenlgo6pjcargdjuoqep2429ll79g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Sn0S9s04eAzDSZceYQiGE_YbXP0ygYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40359166127-jegdenlgo6pjcargdjuoqep2429ll79g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40359166127:android:ece8227fc6b86ca581945a",
+        "android_client_info": {
+          "package_name": "com.marslia_shehab.my_cab_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40359166127-2jp5bd43mf2o2hj1969140c1f463fq12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marslia_shehab.my_cab_driver",
+            "certificate_hash": "598b9e90f0b6c384e214503fe8814916c1dac9c4"
+          }
+        },
+        {
+          "client_id": "40359166127-jegdenlgo6pjcargdjuoqep2429ll79g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Sn0S9s04eAzDSZceYQiGE_YbXP0ygYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40359166127-jegdenlgo6pjcargdjuoqep2429ll79g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
